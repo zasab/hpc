@@ -1,0 +1,9 @@
+*.csv
+slurm-log/
+models/
+*.txt
+logs/
+ale/
+*.pptx
+test.py
+__pycache__/
