@@ -2,21 +2,21 @@
 
 ## 0. How to
 
-### Install
+### Installation Procedure
 
 - Download Node. js 
-    - Download Node.js Installer (https://nodejs.org/en/download/).
-    - Install Node.js and NPM from Browser
-    - Verify Installation. Open a command prompt (or PowerShell), and enter the following: node -v.
-- Check if Python is available.
-- Check if PIP already installed.
-- (Using GitHub) clone this project and open the project in any IDE.
-    - git clone https://github.com/zasab/hpc_monitoring_cocpit.git
+    - Download the Node.js Installer from the official website at https://nodejs.org/en/download/.
+    - Proceed with the installation process, ensuring both Node.js and NPM (Node Package Manager) are installed.
+    - Confirm the successful installation by opening a command prompt (or PowerShell) and entering the command "node -v".
+- Verify the availability of Python on your system.
+- Check if PIP is already installed.
+- Utilizing the GitHub platform, clone the desired project repository by executing the command "git clone https://github.com/zasab/hpc_monitoring_cocpit.git" and open the project in any Integrated Development Environment (IDE).
 
-### Run
+### Execution Procedure
 
-1. Run app.py script and install all the necessary packages with pip install command
-2. In DEV-front directory run npm install, then npm run dev commands (you need to have node.js) and then open the URL in front of ⇒ Local: on your browser
+1. Run the "app.py" script and employ the "pip install" command to install all the required packages.
+2. Within the "DEV-front" directory, execute the commands "npm install" and "npm run dev" (Node.js is required).
+   - Open the URL indicated as "⇒ Local:" in your browser to access the application.
 
 ## 1. Overview
 
